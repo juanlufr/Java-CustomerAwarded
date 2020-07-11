@@ -1,4 +1,7 @@
-##Customer Awarded
+<!-- CUSTOMER AWARDED -->
+
+## Customer Awarded
+
 This is an example of how to use a maximums Heap, written in Java language
 The objective is to award the client who has spent the most money on our business
 
