@@ -64,11 +64,11 @@ Contributions are what make the open source community such an amazing place to b
 
 * Project Link: [juanlufr/Java-CustomerAwarded](https://github.com/juanlufr/Java-CustomerAwarded)
 
-* Linkedin: (https://www.linkedin.com/in/juanluisfelipe/)
+* Linkedin: https://www.linkedin.com/in/juanluisfelipe/
 
-* Spanish Blog: (http://juanlucodingbinding.wordpress.com/)
+* Spanish Blog: http://juanlucodingbinding.wordpress.com/
 
-* English Blog: (http://jlborntocoding.wordpress.com/)
+* English Blog: http://jlborntocoding.wordpress.com/
 
 * Twitter: [@jlfeliper](@jlfeliper)
 
