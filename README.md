@@ -5,7 +5,7 @@
 This is an example of how to use a maximums Heap, written in Java language
 The objective is to award the customer who has spent most money on our business
 
-![Image of Customer Awarded](https://octodex.github.com/images/yaktocat.png)
+![Image of Customer Awarded](https://github.com/juanlufr/Java-CustomerAwarded/blob/master/CA3-Heap.png)
 
 ## Built With 🛠️
 I begun writing this Java application with Spring Java Perspective (Spring Tool Suite) and later with Visual Studio Code because with this I'm writing in other programing languages like nodejs.
