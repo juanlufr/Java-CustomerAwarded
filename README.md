@@ -13,7 +13,7 @@ Of course you can use your prefer framework or IDE.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 🚀
 
 This project contains three files:
 1.	MyProgram.java – Main program
@@ -25,16 +25,16 @@ o	Class with the name of customer and the money spent in our business
 3.	Heap.java – Maximums Heap
 o	Tree structure Heap
 
-### Prerequisites
+### Prerequisites 📋
 * You can work with your prefer IDE. 
 
 
-### Installation
+### Installation 🔧
 * Deploy the three files into a folder.
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing 🖇️
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -47,12 +47,12 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## License 📄
 
 * This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/juanlufr/Java-CustomerAwarded/blob/master/LICENSE.md) file for details
 
 <!-- CONTACT -->
-## Contact
+## Contact ✒️
 
 * Juan Luis Felipe Rubio - Initial work - https://github.com/juanlufr
 
@@ -61,8 +61,8 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* Very grateful to my UNED teachers who taught me how to implement Heap structures of maximums or minimums. 
+## Acknowledgements 🎁
+* Very grateful to my UNED teachers who taught me (a lot of years ago) how to implement Heap structures of maximums or minimums. 
 
 
 © 2020 GitHub, Inc.
