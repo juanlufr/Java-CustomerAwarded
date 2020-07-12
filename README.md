@@ -5,7 +5,7 @@
 This is an example of how to use a maximums Heap, written in Java language
 The objective is to award the customer who has spent most money on our business
 
-### Built With
+## Built With 🛠️
 I begun writing this Java application with Spring Java Perspective (Spring Tool Suite) and later with Visual Studio Code because with this I'm writing in other programing languages like nodejs.
 Of course you can use your prefer framework or IDE.
 * STS – Spring Tool Suite https://spring.io/tools
@@ -26,11 +26,11 @@ o	Class with the name of customer and the money spent in our business
 o	Tree structure Heap
 
 ### Prerequisites
-You can work with your prefer IDE. 
+* You can work with your prefer IDE. 
 
 
 ### Installation
-Deploy the three files into a folder.
+* Deploy the three files into a folder.
 
 
 <!-- CONTRIBUTING -->
@@ -49,14 +49,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/juanlufr/Java-CustomerAwarded/blob/master/LICENSE.md) file for details
+* This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/juanlufr/Java-CustomerAwarded/blob/master/LICENSE.md) file for details
 
 <!-- CONTACT -->
 ## Contact
 
-Juan Luis Felipe Rubio - Initial work - https://github.com/juanlufr
+* Juan Luis Felipe Rubio - Initial work - https://github.com/juanlufr
 
-Project Link: [juanlufr/Java-CustomerAwarded](https://github.com/juanlufr/Java-CustomerAwarded)
+* Project Link: [juanlufr/Java-CustomerAwarded](https://github.com/juanlufr/Java-CustomerAwarded)
 
 
 
