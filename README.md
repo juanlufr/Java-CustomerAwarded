@@ -70,7 +70,7 @@ Contributions are what make the open source community such an amazing place to b
 
 * English Blog: http://jlborntocoding.wordpress.com/
 
-* Twitter: [@jlfeliper](@jlfeliper)
+* Twitter: [@jlfeliper](https://twitter.com/jlfeliper)
 
 
 
