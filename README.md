@@ -17,10 +17,10 @@ Of course you can use your prefer framework or IDE.
 
 This project contains three files:
 
-100. 1. **MyProgram.java** – Main program
-       * String s contains the name of customer and the money spent in each case.
-       * Each customer is inserted in the Heap Structure floating the maximum to the root of tree structure.
-       * At the end we get the root of Heap with the Customer Awarded.
+1.	**MyProgram.java** – Main program
+* String s contains the name of customer and the money spent in each case.
+* Each customer is inserted in the Heap Structure floating the maximum to the root of tree structure.
+* At the end we get the root of Heap with the Customer Awarded.
   
 2.	**MyCustomer.java** – Class MyCustomer 
   * Class with the name of customer and the money spent in our business
