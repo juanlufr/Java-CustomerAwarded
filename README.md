@@ -49,9 +49,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/juanlufr/Java-CustomerAwarded/blob/master/LICENSE.md) file for details
 
 <!-- CONTACT -->
 ## Contact
