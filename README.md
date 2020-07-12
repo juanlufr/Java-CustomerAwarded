@@ -18,13 +18,15 @@ Of course you can use your prefer framework or IDE.
 This project contains three files:
 
 1. **MyProgram.java** – Main program
-* String s contains the name of customer and the money spent in each case.
-* Each customer is inserted in the Heap Structure floating the maximum to the root of tree structure.
-* At the end we get the root of Heap with the Customer Awarded.
+  * String s contains the name of customer and the money spent in each case.
+  * Each customer is inserted in the Heap Structure floating the maximum to the root of tree structure.
+  * At the end we get the root of Heap with the Customer Awarded.
+  
 2.	**MyCustomer.java** – Class MyCustomer 
-* Class with the name of customer and the money spent in our business
+  * Class with the name of customer and the money spent in our business
+  
 3.	**Heap.java** – Maximums Heap
-* Tree structure Heap
+  * Tree structure Heap
 
 
 ### Prerequisites 📋
