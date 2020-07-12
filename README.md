@@ -16,14 +16,16 @@ Of course you can use your prefer framework or IDE.
 ## Getting Started 🚀
 
 This project contains three files:
-1.	MyProgram.java – Main program
-o	String s contains the name of customer and the money spent in each case.
-o	Each customer is inserted in the Heap Structure floating the maximum to the root of tree structure.
-o	At the end we get the root of Heap with the Customer Awarded.
-2.	MyCustomer.java – Class MyCustomer 
-o	Class with the name of customer and the money spent in our business
-3.	Heap.java – Maximums Heap
-o	Tree structure Heap
+
+1.	<font color="blue"> **MyProgram.java** </font>  – Main program
+- String s contains the name of customer and the money spent in each case.
+- Each customer is inserted in the Heap Structure floating the maximum to the root of tree structure.
+- At the end we get the root of Heap with the Customer Awarded.
+2.	**MyCustomer.java** – Class MyCustomer 
+- Class with the name of customer and the money spent in our business
+3.	**Heap.java** – Maximums Heap
+- Tree structure Heap
+
 
 ### Prerequisites 📋
 * You can work with your prefer IDE. 
@@ -62,7 +64,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements 🎁
-* Very grateful to my UNED teachers:heavy_exclamation_mark::heavy_exclamation_mark: who taught me (a lot of years ago) how to implement Heap structures of maximums or minimums 
+* Very grateful to my UNED teachers :heavy_exclamation_mark: who taught me (a lot of years ago) how to implement Heap structures of maximums or minimums 
 * A beer 🍺 or coffee ☕ to discuss any improvement ?
 * Thanks for reading 🤓 with lots of love ❤️ by [juanlufr](https://github.com/juanlufr) 😉
 
