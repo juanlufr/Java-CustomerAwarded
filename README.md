@@ -62,7 +62,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements 🎁
-* Very grateful to my UNED teachers :bangbang: who taught me (a lot of years ago) how to implement Heap structures of maximums or minimums 
+* Very grateful to my UNED teachers:heavy_exclamation_mark::heavy_exclamation_mark: who taught me (a lot of years ago) how to implement Heap structures of maximums or minimums 
 * A beer 🍺 or coffee ☕ to discuss any improvement ?
 * Thanks for reading 🤓 with lots of love ❤️ by [juanlufr](https://github.com/juanlufr) 😉
 
