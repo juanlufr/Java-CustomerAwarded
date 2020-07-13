@@ -62,7 +62,11 @@ Contributions are what make the open source community such an amazing place to b
 
 * Juan Luis Felipe Rubio - Initial work - https://github.com/juanlufr
 
-* Project Link: [juanlufr/Java-CustomerAwarded](https://github.com/juanlufr/Java-CustomerAwarded)
+* GitHub Link: [juanlufr/Java-CustomerAwarded](https://github.com/juanlufr/Java-CustomerAwarded)
+
+* Spanish explanation about it in Blog: https://juanlucodingbinding.wordpress.com/2018/09/12/testing-spring-framework-ejercicio-cliente-por-consumo-java/
+
+* E-mail: juanluis.feliperubio@gmail.com
 
 * Linkedin: https://www.linkedin.com/in/juanluisfelipe/
 
